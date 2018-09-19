@@ -1,6 +1,8 @@
 # password-manager
 
-> An electron-vue project
+Encrypt and Decrypt the passwords using a secret. Long term idea is to save and retrieve passwords.
+
+The passwords should be stored locally in the system.
 
 #### Build Setup
 
