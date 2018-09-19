@@ -1,4 +1,5 @@
-# password-manager
+[![Build Status](https://travis-ci.org/pradeepmurugesan/password-manager.svg?branch=master)](https://travis-ci.org/pradeepmurugesan/password-manager)
+# password-manager 
 
 Encrypt and Decrypt the passwords using a secret. Long term idea is to save and retrieve passwords.
 
