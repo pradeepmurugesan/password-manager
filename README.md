@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/pradeepmurugesan/password-manager.svg?branch=master)](https://travis-ci.org/pradeepmurugesan/password-manager) [![Build status](https://ci.appveyor.com/api/projects/status/voqhwuihs7ehfa60?svg=true)](https://ci.appveyor.com/project/pradeepmurugesan/password-manager)
+[![Build Status](https://travis-ci.org/pradeepmurugesan/password-manager.svg?branch=master)](https://travis-ci.org/pradeepmurugesan/password-manager) [![Build status](https://ci.appveyor.com/api/projects/status/voqhwuihs7ehfa60?svg=true)](https://ci.appveyor.com/project/pradeepmurugesan/password-manager) [![Coverage Status](https://coveralls.io/repos/github/pradeepmurugesan/password-manager/badge.svg?branch=master)](https://coveralls.io/github/pradeepmurugesan/password-manager?branch=master)
 # password-manager 
 
 Encrypt and Decrypt the passwords using a secret. Long term idea is to save and retrieve passwords.
