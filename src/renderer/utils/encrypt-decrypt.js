@@ -8,7 +8,7 @@ export class EncryptDecrypt {
     return crypted
   }
 
-  deCrypt (text, secret) {
+  decrypt (text, secret) {
     const decipher = createDecipher('aes-256-ctr', secret)
     let deCrypted = decipher.update(text, 'hex', 'utf8')
     return deCrypted

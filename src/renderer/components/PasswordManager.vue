@@ -61,7 +61,7 @@
         decrypt: function decrypt () {
           this.encrypted = false
           const e = new EncryptDecrypt()
-          this.result = e.deCrypt(this.plain, this.secret)
+          this.result = e.decrypt(this.plain, this.secret)
         },
         encrypt: function encrypt () {
           this.encrypted = true

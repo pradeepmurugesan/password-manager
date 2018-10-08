@@ -41,3 +41,5 @@ script:
 branches:
   only:
   - master
+after_script:
+- "npm install coveralls && cat ./test/unit/coverage/lcov.info | coveralls"
